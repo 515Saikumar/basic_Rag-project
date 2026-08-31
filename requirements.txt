@@ -1,0 +1,24 @@
+# LangChain Core and Community
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-groq
+
+# Groq API
+groq
+
+# Vector Store and Embeddings
+sentence-transformers
+faiss-cpu
+numpy
+
+# Document Loaders (PDF, Excel, Word, etc.)
+pypdf
+docx2txt
+unstructured
+pandas
+openpyxl
+
+# Environment Management
+python-dotenv
